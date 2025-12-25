@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "247",
+  "base_artist": "STAYC",
+  "createdAt": "2025-12-25T00:53:30.848700Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "247",
+      "artist": "STAYC",
+      "has_synced": true,
+      "path": "select/01_247_STAYC.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "247",
+      "artist": "SEVENTEEN",
+      "has_synced": true,
+      "path": "select/02_247_SEVENTEEN.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "247",
+      "artist": "STAYC (스테이씨)",
+      "has_synced": true,
+      "path": "select/03_247_STAYC_(스테이씨).lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "247",
+      "artist": "Ivan Herzog",
+      "has_synced": true,
+      "path": "select/04_247_Ivan_Herzog.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "…247 dagar…",
+      "artist": "estraden",
+      "has_synced": true,
+      "path": "select/05_...247_dagar..._estraden.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "247",
+      "artist": "Ardian Bujupi",
+      "has_synced": true,
+      "path": "select/06_247_Ardian_Bujupi.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "247 365",
+      "artist": "Planetshakers",
+      "has_synced": true,
+      "path": "select/07_247_365_Planetshakers.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "06 - Dreaming 247",
+      "artist": "Scar Symmetry",
+      "has_synced": true,
+      "path": "select/08_06_-_Dreaming_247_Scar_Symmetry.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "247 - Japanese ver.",
+      "artist": "SEVENTEEN",
+      "has_synced": true,
+      "path": "select/09_247_-_Japanese_ver._SEVENTEEN.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "247. En pecados y temor",
+      "artist": "Hna. María Luisa Piraquive",
+      "has_synced": true,
+      "path": "select/10_247._En_pecados_y_temor_Hna._María_Luisa_Piraquive.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "247 (Japanese ver.)",
+      "artist": "SEVENTEEN",
+      "has_synced": true,
+      "path": "select/11_247_(Japanese_ver.)_SEVENTEEN.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "247",
+      "artist": "David Correy",
+      "has_synced": true,
+      "path": "select/12_247_David_Correy.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Needled 247",
+      "artist": "Children Of Bodom",
+      "has_synced": true,
+      "path": "select/13_Needled_247_Children_Of_Bodom.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "247 (feat. Ella Mai)",
+      "artist": "Meek Mill; Ella Mai",
+      "has_synced": true,
+      "path": "select/14_247_(feat._Ella_Mai)_Meek_Mill;_Ella_Mai.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "247 (feat. Makar)",
+      "artist": "Yung Felix",
+      "has_synced": true,
+      "path": "select/15_247_(feat._Makar)_Yung_Felix.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "247",
+      "artist": "STAYC",
+      "has_synced": false,
+      "path": "select/pl_01_247_STAYC.txt"
+    }
+  ]
+}
