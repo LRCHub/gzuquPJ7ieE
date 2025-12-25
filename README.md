@@ -1,0 +1,68 @@
+# STAYC – 247
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:02.67] You got me, you got me, you got me
+[00:06.65] Doo-doo-doo-doo, doo-doo-doo
+[00:20.65] 
+[00:09.19] I'll never take you, nowhere, nowhere
+[00:11.78] 널 내 곁에만 둘래 몰래
+[00:14.63] 너와 이렇게 24, seven with you
+[00:17.56] 그대로 24, seven with you
+[00:20.11] Got me goin', goin' 너만의 baby, oh, 길들여졌어
+[00:25.97] Can't nobody be like you
+[00:27.88] I know that can't nobody be like you
+[00:45.88] 
+[00:30.81] 시간이 흐른대도 어디에 있다 해도
+[00:36.67] 계속 네 곁에 with you
+[00:42.20] 손을 놓지 않을게 너도 같은 마음인 듯해 my baby
+[00:48.95] You shouldn't go
+[00:56.95] 
+[00:51.04] Baby, tell me what you want, whatever you want
+[00:54.25] 모두 이뤄줄게 baby
+[00:56.67] 네가 원하는 것 갖고 싶은 것
+[00:59.27] Oh, 내게만 말해줄래
+[01:01.94] 널 위해 준비한 선물
+[01:04.97] 너 아닌 그 누구도 모를
+[01:07.47] 네가 원하는 것 갖고 싶은 것
+[01:10.18] My 24, seven, 24, seven you
+[01:23.68] 
+[01:13.04] You're so, you're so, different, different
+[01:18.03] 24, seven with you, 24, seven with you
+[01:37.03] 
+[01:23.28] 시간은 넘쳐나 기분은 뭐랄까? 어디로든 떠날까?
+[01:28.36] 밤이 오고 해가 뜰 때까지 계속 달려도 괜찮아
+[01:33.82] Yah, 도망가자 지금 아주 먼 데로
+[01:36.87] 저 멀리 montero
+[01:39.02] 우리를 알아보는 사람 없는 곳으로 (you got me, you got me, you got me)
+[02:06.52] 
+[01:44.06] 시간이 멈춘대도 모두가 다 변해도
+[01:49.60] 계속 네 곁에 with you
+[01:55.37] 손을 놓지 않을게 너도 같은 마음인 듯해 my baby
+[02:02.73] You shouldn't go (yah)
+[02:13.73] 
+[02:05.56] Trippin', look what you started it
+[02:08.36] Keep on, nothing cannot stop me
+[02:11.11] 하루 종일 보고 있어도 전혀 안 지겨워
+[02:13.79] Want it all, want it all, 아이처럼
+[02:16.44] Dream on you, trip on you
+[02:18.92] 맘에 반쪽 아닌 전부를 다 줘 yeah
+[02:21.27] 색안경은 벗고 날 봐줘 deep inside me (woah-woah-woah)
+[02:43.27] 
+[02:26.72] Baby, tell me what you want, whatever you want (woah)
+[02:28.93] 모두 이뤄줄게 baby (baby)
+[02:31.54] 네가 원하는 것 갖고 싶은 것
+[02:34.03] Oh, 내게만 말해줄래
+[02:36.79] 널 위해 준비한 선물 (oh, woah)
+[02:39.69] 너 아닌 그 누구도 모를 (oh, baby)
+[02:42.20] 네가 원하는 것 갖고 싶은 것
+[02:44.36] My 24, seven, 24, seven you
+[02:57.86] 
+[02:47.46] Baby, baby, 널 내 곁에만 둘래 몰래
+[02:51.63] 너와 이렇게 24, seven with you
+[02:54.54] 그대로 24, seven with you
+[02:56.94] Got me goin', goin' 너만의 baby, baby
+[03:01.52] 이렇게 24, seven with you
+[03:05.17] 영원히 24, seven with you
+```
